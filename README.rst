@@ -34,7 +34,7 @@ for stability, see below for contributing instructions.
 
 Compatibility
 =============
-This is the ``2.x`` series which supports only Python 3.5+. For older versions
+This is the ``2.x`` series which supports only Python 3.8+. For older versions
 of Python please use the |1.x|_ series. The |1.x|_ series is no longer
 maintained but pull requests to fix bugs are still welcomed.
 
@@ -218,6 +218,8 @@ fixing bugs. List is organized by date of first contribution.
 * Skybound1 (`@Skybound1 <https://github.com/Skybound1>`_)
 * Hugo (`@hugovk <https://github.com/hugovk>`_)
 * mspencer92 (`@mspencer92 <https://github.com/mspencer92>`_)
+* enzu.ru (`@enzuru <https://github.com/enzuru>`_)
+* Théophile (`@theophileds <https://github.com/theophileds>`_)
 
 .. |1.x| replace:: ``1.x``
 .. _1.x: https://github.com/mcrute/pydora/tree/1.x
